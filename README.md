@@ -1,6 +1,13 @@
-#### Hi there I'm Mijgon👋
+### Hi there I'm Mijgon👋
 
-I am a Software Engineering student at Western University :classical_building:
+I'm a Software Engineering student at Western University :classical_building:
+I love learning about technology, coding, and software development! :woman_technologist:
+I'm currently furthering my web development skills, learning about Cybersecurity, and gaining knowledge about Web3 🌱
+
+Feel free to contact me through email mijgonzekria@gmail.com 📫
+
+Also, check out my personal website at https://mz-21.github.io/mijgon-website/ 😄
+
 
 
 <!--
