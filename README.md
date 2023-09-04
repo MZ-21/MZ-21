@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there I'm Mijgon👋
+
+I am a Software Engineering student at Western University :classical_building:
+
 
 <!--
 **MZ-21/MZ-21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
