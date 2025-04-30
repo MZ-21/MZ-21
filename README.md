@@ -8,6 +8,8 @@ Feel free to contact me through email mijgonzekria@gmail.com 📫  <br/><br/>
 
 Also, check out my personal website at https://mz-21.github.io/mijgon-website/ 😄
 
+Currently working on Hand Therapy Canada App on my other GitHub: https://github.com/mzekria2/Exercise-Prescription-App-Front-End https://github.com/mzekria2/Exercise-Prescription-App-Back-End
+  
 
 
 <!--
