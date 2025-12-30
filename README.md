@@ -1,15 +1,12 @@
-### Hi there I'm Mijgon👋
+### Hi there I'm Mish👋
 
-I'm a Software Engineering student at Western University :classical_building: <br/>
+I'm a recent Software Engineering graduate from Western University :classical_building: <br/>
 I love learning about technology, coding, and software development! :woman_technologist: <br/>
-I'm currently enhancing my web development skills, deepening my knowledge of AI, and advancing my expertise in machine learning. 🌱 <br/><br/>
-
-Feel free to contact me through email mijgonzekria@gmail.com 📫  <br/><br/>
+I'm currently enhancing my web development skills, deepening my knowledge of AI, and advancing my experience in machine learning. 🌱 <br/><br/>
 
 Also, check out my personal website at https://mz-21.github.io/mijgon-website/ 😄
 
-Currently working on Hand Therapy Canada App on my other GitHub: https://github.com/mzekria2/Exercise-Prescription-App-Front-End https://github.com/mzekria2/Exercise-Prescription-App-Back-End
-  
+Feel free to reach out to me through my website! 📫  <br/><br/>
 
 
 <!--
