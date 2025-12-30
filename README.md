@@ -4,7 +4,7 @@ I'm a recent Software Engineering graduate from Western University :classical_bu
 I love learning about technology, coding, and software development! :woman_technologist: <br/>
 I'm currently enhancing my web development skills, deepening my knowledge of AI, and advancing my experience in machine learning. 🌱 <br/><br/>
 
-Also, check out my personal website at https://mz-21.github.io/mijgon-website/ 😄
+Also, check out my personal website at https://mz-21.github.io/personal-website/ 😄
 
 Feel free to reach out to me through my website! 📫  <br/><br/>
 
